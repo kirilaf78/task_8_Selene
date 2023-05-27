@@ -1,0 +1,4 @@
+requests
+pyhamcrest
+pytest
+selene~=2.0.0b17
